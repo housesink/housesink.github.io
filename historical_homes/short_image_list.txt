@@ -1,0 +1,12 @@
+Historical Homes
+T_historical
+180 4
+
+* ShInn		   Sheridan, Wyoming
+sn-blond	   Ozark Mountains, Missouri             
+log-cabin	   Jefferson City, Missouri              
+conrad		   Kalispell, Montana                    
+
+
+
+

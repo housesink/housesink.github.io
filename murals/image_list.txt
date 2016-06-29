@@ -1,0 +1,29 @@
+Murals
+T_Murals
+280 3
+
+* ShMuralSplit Sheridan, Wyoming
+t MaryMuralALL  'Denver Beginnings' oil on 4 car garage
+
+m9  private home, Mexico 
+ArnoldSwartz Sheridan, Wyoming
+m16 private home, Missouri 
+m1  Dept. of Geography, Un of Missouri 
+m12      private home 
+m15 private home, Colorado 
+m3a      Un of Missouri 
+m5  Un of Missouri
+m7  Un of Missouri
+m13 private home  
+m3b Dept. of Geography, Un of Missouri 
+m6 Un of Mo 
+m11 private home 
+m2  Un of Missouri 
+m14 private home, Holiday Acres, Missouri 
+m10 historical St. Louis 
+m4  Un of Missouri 
+Rigazzi St. Louis, Missouri
+hottubrm Athletic Club, Moberly, Mo 
+m8 private home 
+MtRush Rigazzi's Restaurant, St. Louis, Missouri 
+

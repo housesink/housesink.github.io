@@ -1,0 +1,45 @@
+Home Portraits
+T_home
+180 4
+
+* h-laslo		St. Louis, Missouri
+
+h1		Whitefish Lake, Montana
+h2		Bigfork, Montana
+sn1		Boon County Court House, Missouri
+h4		Chicago, Illinois
+
+h11		Overlooks Mississippi
+bril		Ladue, Missouri			  
+moberlyjdg	Moberly, Missouri
+sn3		Moberly, Missouri
+
+Hickory		Chesterfield, Missouri
+h16		Columbia, Missouri
+h3		Whitefish Lake, Montana
+sn2		Columbia, Missouri
+
+h-bechtl	Columbia, Missouri
+sn-jan		Forsyth, Montana
+h-rains		Bigfork, Montana
+h-optcr		Columbia, Missouri
+
+h-newEng	New England
+h-meadlk	Columbia, Missouri
+h-maryd		Evergreen, Colorado
+h-marshl	Sheridan, Wyoming
+
+h-leprcn	Hallsville, Missouri
+MargMc          Sheridan, Wyoming
+h-craig		Moberly, Missouri
+h-colvin	Flathead Lake, Montana
+
+h-brown		Columbia, Missouri
+h-willet	Columbia, Missouri
+h-chuck		St. Louis, Missouri
+SalterXmas	Hartsburg, Missouri
+
+lkside		Lakeside, Montana
+h13		Columbia, Missouri
+DenHs		Denver, Colorado
+h14		Hartsburg, Missouri

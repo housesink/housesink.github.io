@@ -1,0 +1,14 @@
+Churche, School, and Hospital Portraits.
+T_churches_schls
+288 3
+
+chr1	Flathead Lake, Montana
+chr2	St. Louis, Missouri
+* chr3	Columbia, Missouri
+
+hosp6	Columbia, Missouri
+sch5	Kalispell, Montana
+ch-hartsbrg Hartsburg, Missouri
+
+whtfsh Whitefish, Montana
+MTschlhs Prairie Schoolhouse, Montana

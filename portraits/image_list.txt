@@ -1,0 +1,25 @@
+Portraits of Children and Adults
+T_children
+180 4
+
+* groupportRigazzi Italian 'family'
+
+CookKids     For Dad
+Emma         Father's Day 
+port-jenny   Wedding Announdements/Thank Yous 
+port-Johnson Dad & Son
+port-david  Gift for Gramma & Grandpa
+port-dadson Father's Day 
+port-blk    Gift to Mother 
+port-T_D    Gift to the coach
+port-ther Now & Then 
+port-wil  Now & Then 
+port-marg The Artist 
+toddler   Gift for Gramma  
+speak       Strength 
+maryd       My Angel Sister 
+RigazziPort Founder of Rigazzi's 
+portAutoJim Family Portrait 
+
+
+

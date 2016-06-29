@@ -1,0 +1,21 @@
+<img src="frontpage.jpg" width="864" height="576" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image Map file created by GIMP Imagemap Plugin -->
+<!-- #$-:GIMP Imagemap Plugin by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.0 -->
+<!-- #$AUTHOR:William Halliburton -->
+<area shape="rect" coords="581,408,804,430" href="mailto:margaret@housesink.net" />
+<area shape="rect" coords="174,180,235,202" href="home_portraits/index.html" />
+<area shape="rect" coords="255,180,354,201" href="business_portraits/index.html" />
+<area shape="rect" coords="250,205,366,258" href="home_portraits/sn1.html" />
+<area shape="rect" coords="172,279,217,298" href="pet_portraits/index.html" />
+<area shape="rect" coords="222,280,303,301" href="portraits/index.html" />
+<area shape="rect" coords="146,299,322,320" href="home_portraits/DenHs.html" />
+<area shape="rect" coords="93,321,357,366" href="murals/index.html" />
+<area shape="rect" coords="91,378,409,412" href="graphic_design/index.html" />
+<area shape="rect" coords="143,437,294,478" href="maps/index.html" />
+<area shape="rect" coords="98,152,355,181" href="home_portraits/index.html" />
+<area shape="rect" coords="95,249,249,275" href="portraits/index.html" />
+</map>

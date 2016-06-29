@@ -1,0 +1,50 @@
+Illustrations
+T_illustrations
+280 3
+
+m layout Children's book (unpublished)
+
+WYanimals
+juke
+hrttree
+
+heartassc
+StLouis
+ashland
+
+ill1 Poster of Bronze, Whitefish, MT 
+ill2 Dude Ranch, Glacier Park, MT 
+ill3 Inside Cover, History of MO 
+
+doorhnd
+Missouri
+octfest
+
+xmashand
+wine
+train
+
+ill-shltr  50th Anniversary, Shelter Ins 
+ill-columns Columns at University of Missouri
+
+r
+
+h lilly_the_goat/birth
+h lilly_the_goat/sink  
+h lilly_the_goat/feeding
+h lilly_the_goat/animals
+h lilly_the_goat/baggage
+h lilly_the_goat/barntrk
+h lilly_the_goat/bed
+h lilly_the_goat/centbrn
+h lilly_the_goat/corral
+h lilly_the_goat/gate 
+h lilly_the_goat/goatstmp
+h lilly_the_goat/grdnpeop
+h lilly_the_goat/night
+h lilly_the_goat/scene 
+h lilly_the_goat/school
+h lilly_the_goat/sitgrdn
+h lilly_the_goat/sitwall
+h lilly_the_goat/truck 
+h lilly_the_goat/window

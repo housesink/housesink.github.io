@@ -1,0 +1,20 @@
+Computer Graphic Designs
+T_graphic_design
+280 3
+
+m banners
+
+h banners_logos/ACLU
+h banners_logos/WFlorBanner1
+h banners_logos/bevo1
+h banners_logos/butterfly
+h banners_logos/delmarban1
+h banners_logos/delmarban2
+h banners_logos/dogtown
+h banners_logos/gravois
+h banners_logos/hollyhils
+h banners_logos/indian
+h banners_logos/marine
+h banners_logos/marine2
+h banners_logos/swgrdn
+h banners_logos/unitypin

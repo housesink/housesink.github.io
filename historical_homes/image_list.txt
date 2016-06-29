@@ -1,0 +1,33 @@
+Historical Homes
+T_historical
+180 4
+
+ShInn		   Sheridan, Wyoming
+sn-blond	   Ozark Mountains, Missouri             
+log-cabin	   Jefferson City, Missouri              
+conrad		   Kalispell, Montana                    
+hist-vetHosp	   Veterans Hospital, Columbia Falls, MT 
+JanJoyce	   Louisiana, Missouri        
+hist-kalspl	   Kalispell, Montana         
+hist-klspl2	   Kalispell, Montana
+h12		   Pennsylvania woods         
+hist-clarkhs	   Clark Home, Booneville, MO 
+hist-brdhs	   Columbia, Missouri                      
+hist-boone	   Blind Boone Home, Columbia, MO          
+hist-hunths	   Hunt House, Columbia, MO                
+hist-win	   Columbia, Missouri                      
+kalcabin	   Kalispell, Montana               
+Quinn		   St. Louis, Missouri              
+MTschlhs	   Prairie Schoolhouse, Montana     
+LarryHallCabin	   1700's cabin by the Osage R., MO 
+CadyHouse	   Sheridan, Wyoming
+Hallcabin	   Missouri
+KendrickMansion	   Sheridan, Wyoming
+PowderHorn	   Sheridan, Wyoming
+hist-logdiana	   Missouri
+hist-wingrt	   Columbia, Missouri
+* trainstationsShInn Sheridan, Wyoming
+
+
+
+

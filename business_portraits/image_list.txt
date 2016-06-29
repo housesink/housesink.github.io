@@ -1,0 +1,33 @@
+Business Portraits
+T_business
+180 4
+
+ill2	Coram, Montana
+carrol  St. Louis, Missouri
+b9	St. Louis, Missouri
+* Hammer	Sheridan, Wyoming
+
+b5	Columbia Falls, Montana
+Rigazzi Rigazzi's, St. Louis
+sn5	Glacier Park, Montana
+Rumbolo	Rumbolo's, St. Louis
+
+b6	Flathead Lake, Montana
+h10	Swan Lake, Montana
+mttradr	Kalispell, Montana
+b2	Columbia, Missouri
+
+b3	Bigfork, Montana
+b11	Whitefish, Montana
+b-hair	Columbia, Missouri
+Kinnison Sheridan, Wyoming	  
+
+b4	 Whitefish, Montana
+b7	 Whitefish, Montana
+helicop	 Glacier Park, MT
+b10	 Trego, Montana
+
+Lilycomp St. Louis, Missouri
+b1	 Kalispell, Montana
+b8	 Columbia Falls, Montana
+sn-concrd Columbia, Missouri

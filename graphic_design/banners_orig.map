@@ -1,0 +1,23 @@
+<img src="banners.jpg" width="720" height="576" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image Map file created by GIMP Imagemap Plugin -->
+<!-- #$-:GIMP Imagemap Plugin by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.0 -->
+<!-- #$AUTHOR:William Halliburton -->
+<area shape="rect" coords="227,6,424,128" href="unitypin.html" />
+<area shape="rect" coords="425,5,509,114" href="butterfly.html" />
+<area shape="rect" coords="510,54,712,270" href="bevo1.html" />
+<area shape="rect" coords="272,134,370,371" href="delmarban1.html" />
+<area shape="rect" coords="380,272,504,372" href="ACLU.html" />
+<area shape="rect" coords="302,372,399,572" href="delmarban2.html" />
+<area shape="circle" coords="211,308,59" href="marine.html" />
+<area shape="rect" coords="371,134,508,271" href="marine2.html" />
+<area shape="rect" coords="152,134,268,253" href="hollyhils.html" />
+<area shape="rect" coords="7,132,151,325" href="indian.html" />
+<area shape="rect" coords="7,326,103,575" href="WFlorBanner1.html" />
+<area shape="rect" coords="108,353,205,572" href="dogtown.html" />
+<area shape="rect" coords="213,460,295,572" href="gravois.html" />
+<area shape="poly" coords="406,386,507,381,513,278,719,277,719,575,408,575,406,380" href="swgrdn.html" />
+</map>
